@@ -111,3 +111,11 @@ Bash
 streamlit run app.py
 Tarayıcınızda http://localhost:8501 adresine giderek sistemi kullanmaya başlayabilirsiniz.
 
+
+## Canlı Sistem Demosu
+
+Aşağıdaki bağlantıya tıklayarak platformun uçtan uca canlı demo kaydını izleyebilirsiniz:
+
+[![Canlı Demo İzle](https://img.shields.io/badge/Google_Drive-Canlı_Demoyu_İzle-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1yfSp-Ik8BHICF2ap3QfFLecFKxRVVfbP/view?usp=sharing)
+
+---
